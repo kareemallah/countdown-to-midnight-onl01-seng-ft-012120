@@ -3,5 +3,6 @@
 countdown = 10
 
 def countdown
+  while number > 10
   
 end
