@@ -9,3 +9,5 @@ def countdown
   puts "HAPPY NEW YEARS"
 end
 end
+
+countdown
