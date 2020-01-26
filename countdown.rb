@@ -4,5 +4,5 @@ countdown = 10
 
 def countdown
   while number > 10
-  puts "#{number}"
+  puts "#{number} SECONDS"
 end
