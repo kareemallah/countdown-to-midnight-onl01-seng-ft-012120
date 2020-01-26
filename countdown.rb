@@ -8,3 +8,4 @@ def countdown
   number -= 1
   puts "HAPPY NEW YEARS"
 end
+end
